@@ -1,6 +1,6 @@
 # Front End Developer Challenge 
 
-A simple test for front end developers
+A simple test for front end developer candidates.
 
 ## Instructions
 
@@ -11,7 +11,7 @@ A simple test for front end developers
 
 ### Guidelines
 
-1. Your repo needs to include at minimum anything required to build the compiled HTML, CSS and JavaScript, if applicable.
+1. Your repo needs to include at minimum anything required to build the compiled HTML and CSS, if applicable.
   Your solution should be documented in a `README.md` file explaining how to setup and run the app.
 2. Use best practice.
 3. Show us what you're capable of without using CSS frameworks.
@@ -25,5 +25,5 @@ A simple test for front end developers
 * Consume dependencies with tools like NPM/Yarn
 * Compile any assets with a build tool like NPM scripts, gulp, webpack etc
 * CSS linting
-* Include a dev server
+* Include a simple local dev server
 * Using modern approaches for the grid system
